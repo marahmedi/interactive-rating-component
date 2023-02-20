@@ -17,8 +17,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshot
 
+![Screenshot 2023-02-20 at 14 40 00](https://user-images.githubusercontent.com/93393032/220163077-80604c1d-643a-4d19-9039-a381e4cf4a39.png)
 
-/Users/marahsstuff/Desktop/Screenshot 2023-02-20 at 14.40.00.png
+![Screenshot 2023-02-20 at 14 40 13](https://user-images.githubusercontent.com/93393032/220163104-cfe3bd64-2b8c-4119-9026-db30c34c8ecc.png)
+
 
 
 ### Links
